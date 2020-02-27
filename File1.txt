@@ -8,44 +8,8 @@ This is Yash1
 This is Yash1
 This is Yash1
 ====================
-
-
-This is Yash2
-This is Yash2
-This is Yash2
-This is Yash2
-This is Yash2
-This is Yash2
-This is Yash2
-This is Yash2
-This is Yash2
-====================
-
-This is Yash3
-This is Yash3
-This is Yash3
-This is Yash3
-This is Yash3
-This is Yash3
-This is Yash3
-This is Yash3
-This is Yash3
-====================
-
-This is Yash4
-This is Yash4
-This is Yash4
-This is Yash4
-This is Yash4
-This is Yash4
-This is Yash4
-This is Yash4
-This is Yash4
-====================
-
 This is Yash1
 This is Yash2
 This is Yash3
 This is Yash4
 This is Yash5
-This is Yash6
